@@ -32,8 +32,6 @@ public class Empower
 	driver.findElement(By.xpath("//*[@id=\"mega-menu-9\"]/li[5]/ul/li/div/div/div/div[1]/ul/li[2]/a")).click();
 	Thread.sleep(5000);
 	driver.findElement(By.cssSelector("")).click();
-	  
-	
-	
+
 	}  
 }
